@@ -1,0 +1,6 @@
+'VendingMachine-attempts', (0, 71)
+'VendingMachine-last_attempt', (512, 74)
+'VendingMachine-correct', (1024, 70)
+'MissManners-attempts', (1536, 71)
+'MissManners-last_attempt', (2048, 74)
+'MissManners-correct', (2560, 70)

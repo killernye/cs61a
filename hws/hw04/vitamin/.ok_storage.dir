@@ -1,0 +1,6 @@
+'taxicab-attempts', (0, 71)
+'taxicab-last_attempt', (512, 74)
+'squares-attempts', (1024, 71)
+'squares-last_attempt', (1536, 74)
+'taxicab-correct', (2048, 70)
+'squares-correct', (2560, 70)
